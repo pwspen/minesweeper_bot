@@ -1,6 +1,7 @@
 # minesweeper_bot
 More info:
 https://github.com/pwspen/minesweeper_bot/blob/main/README.md
+
 Bot that plays Google Minesweeper: https://www.google.com/fbx?fbx=minesweeper
 Relatively easily configurable for different computers and modes, but is currently set to only play at the link above, in Hard mode, for a 4k screen, at 250% screen scaling on Windows (I believe?)
 
